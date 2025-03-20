@@ -1,0 +1,3095 @@
+{
+    "category1": {
+        "id": 1,
+        "parent": "Yeməklər",
+        "category_az": "Soyuq qəlyanalti",
+        "category_ru": "Холодные закуски",
+        "category_en": "Cold snacks",
+        "meals": [
+            {
+                "id": 1,
+                "name_az": "Badimcan əzməsi̇",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-05/a_1876_20240517170840223941304.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 2,
+                "name_az": "Acili əzmə",
+                "name_en": "Bitter ",
+                "name_ru": "Горький ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312111551856908739.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 3,
+                "name_az": "Pomi̇dor və xi̇yar ",
+                "name_en": "Tomato and cucumber",
+                "name_ru": "Помидоры и огурцы",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312112391621521737.jpg",
+                "description_az": "Qazax",
+                "description_en": "Kazakh",
+                "description_ru": "казахский",
+                "price": "5"
+            },
+            {
+                "id": 4,
+                "name_az": "Pendi̇r assorti̇",
+                "name_en": "Assorted cheese",
+                "name_ru": "Сырное ассорти",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312113191461067676.jpg",
+                "description_az": "Yerli",
+                "description_en": "Local",
+                "description_ru": "Местный",
+                "price": "8"
+            },
+            {
+                "id": 5,
+                "name_az": "Gəncə qatiği (camış)",
+                "name_en": "Ganja cream (buffalo) ",
+                "name_ru": "Крем гянджа (баффало)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052007211180719970.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 6,
+                "name_az": "Zeytun assorti̇",
+                "name_en": "Assorted olive",
+                "name_ru": "Ассорти оливков",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310301718131196031532.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 7,
+                "name_az": "Paştet (dana içalat)",
+                "name_en": "Pastet (beef offal)",
+                "name_ru": "Пастет (говяжьи субпродукты)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052003301301620363.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "8"
+            },
+            {
+                "id": 8,
+                "name_az": "Ət assorti̇",
+                "name_en": "Assorted meat",
+                "name_ru": "Мясное ассорти",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005200457994187466.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "20"
+            },
+            {
+                "id": 9,
+                "name_az": "Baliq assorti̇",
+                "name_en": "Assorted fish",
+                "name_ru": "Рыбное ассорти",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052005231501820413.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "30"
+            },
+            {
+                "id": 10,
+                "name_az": "Badimcan bükməsi̇",
+                "name_en": "Eggplant bread",
+                "name_ru": "Баклажанный хлеб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051958462027538214.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 11,
+                "name_az": "Turşu assorti̇",
+                "name_en": "Pickle assortment",
+                "name_ru": "Соляные ассортименты",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005200554758082982.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 12,
+                "name_az": "Pərpətöyünlü süzmə",
+                "name_en": "Pərpətöyün suzma",
+                "name_ru": "Пэрпэтоунлу сузма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231031211402482478523.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 13,
+                "name_az": "Göyərti̇ assorti̇",
+                "name_en": "Green assortment",
+                "name_ru": "Зеленый ассорти",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100520064164876480.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "3"
+            },
+            {
+                "id": 14,
+                "name_az": "Pendi̇r assorti̇",
+                "name_en": "Assorted cheese",
+                "name_ru": "Сырное ассорти",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005194519599292275.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 15,
+                "name_az": "Tərəvəz buketi̇",
+                "name_en": "Vegetable bouquet",
+                "name_ru": "Овощной букет",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052008151353024928.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            }
+        ]
+    },
+    "category2": {
+        "id": 2,
+        "parent": "Yeməklər",
+        "category_az": "Pub menyu",
+        "category_ru": "",
+        "category_en": "",
+        "meals": [
+            {
+                "id": 16,
+                "name_az": "Xaçapuri manqalda",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 17,
+                "name_az": "İveriya",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051942451319180112.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 18,
+                "name_az": "Sardelka",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 19,
+                "name_az": "Blinçik salmon",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 20,
+                "name_az": "Semiçka kababı",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_20240605191420338914273.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 21,
+                "name_az": "Ruskiy more kartofla",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 22,
+                "name_az": "Tempura krvetka",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 23,
+                "name_az": "Krvetka",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_20240605193451516987064.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "12"
+            },
+            {
+                "id": 24,
+                "name_az": "Cipsi ev sayağı",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_20240605190319642921269.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 25,
+                "name_az": "Qızardılmış düşbərə",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051908311304825910.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 26,
+                "name_az": "Basdırma",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 27,
+                "name_az": "Püstə",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051916221247000946.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 28,
+                "name_az": "Qızardılmış pətənə",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_20240605191202168587563.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 29,
+                "name_az": "Noxud",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051921231242700126.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "3"
+            },
+            {
+                "id": 30,
+                "name_az": "Saçaqlı pendir",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051927001954049016.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 31,
+                "name_az": "Qızardılmış saçaqlı pendir",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051931301570455167.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 32,
+                "name_az": "Qızardılmış boğaz",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_202406051936471601830150.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 33,
+                "name_az": "Dorado",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_20240605194122144078927.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "16"
+            },
+            {
+                "id": 34,
+                "name_az": "Farel balıqı",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_20240605193935959112499.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 35,
+                "name_az": "Cipsi lays",
+                "name_en": "",
+                "name_ru": "",
+                "image": "https://monyo.az/uploads2/uploads2024-06/a_1876_2024060519331172546776.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "3"
+            },
+            {
+                "id": 36,
+                "name_az": "Semiçka təmizlənmiş",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            }
+        ]
+    },
+    "category3": {
+        "id": 3,
+        "parent": "Yeməklər",
+        "category_az": "Salatlar",
+        "category_ru": "Салаты",
+        "category_en": "Salads",
+        "meals": [
+            {
+                "id": 37,
+                "name_az": "Sezar krevetka",
+                "name_en": "Shrimp caesar",
+                "name_ru": "Креветка цезарь",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312118301576811884.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "13"
+            },
+            {
+                "id": 38,
+                "name_az": "Göy salati",
+                "name_en": "Green salad",
+                "name_ru": "Зеленый салат",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "8"
+            },
+            {
+                "id": 39,
+                "name_az": "Xirçildayan badimcan salati",
+                "name_en": "Crispy eggplant salad",
+                "name_ru": "Хрустящий салат из баклажанов ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052009281120089068.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "8"
+            },
+            {
+                "id": 40,
+                "name_az": "Toyuq salati",
+                "name_en": "Chicken salad",
+                "name_ru": "Куриный салат",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052012171446142799.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 41,
+                "name_az": "Vi̇şnəli̇ pomi̇dor salati",
+                "name_en": "Cherry tomato salad",
+                "name_ru": "Салат черри томатный",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005194842290519966.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "8"
+            },
+            {
+                "id": 42,
+                "name_az": "Paytaxt salati",
+                "name_en": "Capital salad",
+                "name_ru": "Капитальный салат",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005194640389175595.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 43,
+                "name_az": "Manqal salati",
+                "name_en": "Barbecue salad",
+                "name_ru": "Салат барбекю",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005194719717099603.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 44,
+                "name_az": "Çoban salati",
+                "name_en": "Shepherd's salad",
+                "name_ru": "Пастуший салат",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052010071138692187.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 45,
+                "name_az": "Plove salati",
+                "name_en": "Plove salad",
+                "name_ru": "Салат с пловы",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "12"
+            },
+            {
+                "id": 46,
+                "name_az": "Sezar salati",
+                "name_en": "Caesar salad",
+                "name_ru": "Салат цезарь",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051950051899852393.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            }
+        ]
+    },
+    "category4": {
+        "id": 4,
+        "parent": "Yeməklər",
+        "category_az": "Qarni̇rlər",
+        "category_ru": "Гарниры",
+        "category_en": "Garni̇shes",
+        "meals": [
+            {
+                "id": 47,
+                "name_az": "Kartof fri̇",
+                "name_en": "French fries",
+                "name_ru": "Картофель фри",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005201345557654720.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 48,
+                "name_az": "Düyü ",
+                "name_en": "Rice",
+                "name_ru": "Рис",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100520141942436544.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 49,
+                "name_az": "Kartof əzməsi̇",
+                "name_en": "Mashed potatoes",
+                "name_ru": "Картофельное пюре",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052014492080446902.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 50,
+                "name_az": "Qarabaşaq",
+                "name_en": "Garabaşak",
+                "name_ru": "Гречка ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005201522836030319.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 51,
+                "name_az": "Tərəvəz qarni̇ri̇",
+                "name_en": "Vegetables garnish ",
+                "name_ru": "Овощи гарнир",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310301633041487995578.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 52,
+                "name_az": "Qizardilmiş kartof kərə yağinda",
+                "name_en": "Fried potatoes in butter",
+                "name_ru": "Жареный картофель в масле",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052016321751437884.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            }
+        ]
+    },
+    "category5": {
+        "id": 5,
+        "parent": "Yeməklər",
+        "category_az": "Xəmi̇r xörəkləri̇",
+        "category_ru": "Кондитерские блюда",
+        "category_en": "Pastry dishes",
+        "meals": [
+            {
+                "id": 53,
+                "name_az": "Gürzə",
+                "name_en": "Gurza",
+                "name_ru": "Гурза",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005195057454435169.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 54,
+                "name_az": "Göy qutabi",
+                "name_en": "Green qutab",
+                "name_ru": "Зеленый кутаб ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005195239929321181.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "2"
+            },
+            {
+                "id": 55,
+                "name_az": "Ət qutabi",
+                "name_en": "Meat gutab ",
+                "name_ru": "Мясной кутаб ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005195142961021325.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "3"
+            },
+            {
+                "id": 56,
+                "name_az": "Bli̇nçi̇k kəsmi̇k",
+                "name_en": "Pancake with cream",
+                "name_ru": "Блинчик с кремом",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005201733821892675.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "2"
+            },
+            {
+                "id": 57,
+                "name_az": "Gəncə kətəsi̇",
+                "name_en": "Ganja gutab ",
+                "name_ru": "Гянджа кутаб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052018591752805973.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 58,
+                "name_az": "Bli̇nçi̇k ət",
+                "name_en": "Pancake with meat",
+                "name_ru": "Блины с мясом",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005195258917769928.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "3"
+            }
+        ]
+    },
+    "category6": {
+        "id": 6,
+        "parent": "Yeməklər",
+        "category_az": "Şorbalar",
+        "category_ru": "Супы",
+        "category_en": "Soups",
+        "meals": [
+            {
+                "id": 59,
+                "name_az": "Lobya supu",
+                "name_en": "Bean soup",
+                "name_ru": "Бобовый суп",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005194427746418321.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 60,
+                "name_az": "Şəki̇ pi̇ti̇si̇",
+                "name_en": "Shaki̇ piti",
+                "name_ru": "Шэки питис",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100523555022088452.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 61,
+                "name_az": "Mərci̇",
+                "name_en": "Lent",
+                "name_ru": "Лент",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005202132533845609.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 62,
+                "name_az": "Qaşiq xəngəli̇",
+                "name_en": "Spoon hanger",
+                "name_ru": "Ложка хангал",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 63,
+                "name_az": "Göy şorbasi",
+                "name_en": "Green soup",
+                "name_ru": "Зеленый суп",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100520224367812106.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 64,
+                "name_az": "Düşbərə",
+                "name_en": "Dushbara ",
+                "name_ru": "Дюшбара ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051954101831523509.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 65,
+                "name_az": "Toyuq şorbasi",
+                "name_en": "Chicken soup",
+                "name_ru": "Куриный суп",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005202350375119350.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            }
+        ]
+    },
+    "category7": {
+        "id": 7,
+        "parent": "Yeməklər",
+        "category_az": "Qazan yeməkləri̇ ",
+        "category_ru": "Посуда",
+        "category_en": "Boiler dishes",
+        "meals": [
+            {
+                "id": 66,
+                "name_az": "Şi̇rəli̇ xoruz",
+                "name_en": "Juicy rooster",
+                "name_ru": "Сочный петух",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312129381222659315.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "40"
+            },
+            {
+                "id": 67,
+                "name_az": "Toyuq kotleti̇",
+                "name_en": "Chicken cuttle",
+                "name_ru": "Куриная катлета",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312245331972626944.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 68,
+                "name_az": "Ət kotleti̇",
+                "name_en": "Meat cuttle ",
+                "name_ru": "Мясо катлета",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312248012144186924.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 69,
+                "name_az": "Çəpi̇ş buğlamasi",
+                "name_en": "Chapish bughlama",
+                "name_ru": "Чапиш буглама",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005202747530986501.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "12"
+            },
+            {
+                "id": 70,
+                "name_az": "Küncütlü can əti̇",
+                "name_en": "Beef kuncut",
+                "name_ru": "Говядина кюнчут",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310312253021283420613.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "16"
+            },
+            {
+                "id": 71,
+                "name_az": "Şi̇rəli̇ dana",
+                "name_en": "Juicy beef",
+                "name_ru": "Сочная телятина",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052028422104682990.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 72,
+                "name_az": "Tşonka",
+                "name_en": "Tşonka",
+                "name_ru": "Тшонка",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005203055106235021.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 73,
+                "name_az": "Dana beli̇ ",
+                "name_en": "Calf loi̇n ",
+                "name_ru": "Телячья корейка",
+                "image": null,
+                "description_az": "özəl sousda",
+                "description_en": "",
+                "description_ru": "",
+                "price": "30"
+            },
+            {
+                "id": 74,
+                "name_az": "Quzu qolu tabaka ",
+                "name_en": "Lamb's arm tabaka ",
+                "name_ru": "Рука ягненка табака ",
+                "image": "https://monyo.az/uploads2/uploads2023-12/a_1876_202312182033301747718875.jpg",
+                "description_az": "4nəfərlik",
+                "description_en": "4 persons",
+                "description_ru": "4 человека",
+                "price": "30"
+            },
+            {
+                "id": 75,
+                "name_az": "Quzu soyutmasi",
+                "name_en": "Lamb soyutma",
+                "name_ru": "Ягненок соютма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052034506834821.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 76,
+                "name_az": "Şi̇rəli̇ quzu",
+                "name_en": "Juicy lamb",
+                "name_ru": "Сочная ягненка",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005203524725167414.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 77,
+                "name_az": "Hi̇nduşka buğlamasi",
+                "name_en": "Turkey buglama",
+                "name_ru": "Турция буглама",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231031225941583805479.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 78,
+                "name_az": "Quzu buğlamasi",
+                "name_en": "Lamb buglama",
+                "name_ru": "Ягненок буглама",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005235423930441744.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            }
+        ]
+    },
+    "category8": {
+        "id": 8,
+        "parent": "Yeməklər",
+        "category_az": "Dolmalar",
+        "category_ru": "Долма",
+        "category_en": "Dolma",
+        "meals": [
+            {
+                "id": 79,
+                "name_az": "Dopu dolmasi",
+                "name_en": "Dopu dolma",
+                "name_ru": "Допу долма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051953241475529013.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 80,
+                "name_az": "Yarpaq dolmasi",
+                "name_en": "Leaf долма ",
+                "name_ru": "Лист долма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051957231170146576.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 81,
+                "name_az": "Tərəvəz dolmasi",
+                "name_en": "Vegetables dolma",
+                "name_ru": "Овощи долма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005204610351417059.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 82,
+                "name_az": "Pi̇p dolmasi",
+                "name_en": "Pip dolma ",
+                "name_ru": "Пип долма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005204855631058540.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "12"
+            }
+        ]
+    },
+    "category9": {
+        "id": 9,
+        "parent": "Yeməklər",
+        "category_az": "Uşaq menyusu",
+        "category_ru": "Детское меню",
+        "category_en": "Children's menu",
+        "meals": [
+            {
+                "id": 83,
+                "name_az": "Çöp şi̇ş",
+                "name_en": "Stick tumor ",
+                "name_ru": "Палочная опухоль ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052043431721017882.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "8"
+            },
+            {
+                "id": 84,
+                "name_az": "Pendi̇r çubuqlari",
+                "name_en": "Cheese sticks",
+                "name_ru": "Сырные палочки",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005204938645531400.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 85,
+                "name_az": "Meyvə salati",
+                "name_en": "Fruit salad",
+                "name_ru": "Фруктовый салат",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005205039670505268.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 86,
+                "name_az": "Toyuq çubuqlari",
+                "name_en": "Chicken sticks",
+                "name_ru": "Куриные палочки",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231030163526272030894.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "8"
+            }
+        ]
+    },
+    "category10": {
+        "id": 10,
+        "parent": "Yeməklər",
+        "category_az": "Əsas yeməklər",
+        "category_ru": "Основные блюда",
+        "category_en": "Main dishes",
+        "meals": [
+            {
+                "id": 87,
+                "name_az": "Medalyon təndi̇rdə",
+                "name_en": "Medallion in the oven",
+                "name_ru": "Медальон в духовке",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051956021069369102.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 88,
+                "name_az": "Sac can əti̇ ",
+                "name_en": "Beef sadj",
+                "name_ru": "Говядина садж",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052051411392123334.jpg",
+                "description_az": "4 nəfərlik",
+                "description_en": "For 4 people",
+                "description_ru": "Для 4 человек",
+                "price": "35"
+            },
+            {
+                "id": 89,
+                "name_az": "Sac toyuq ",
+                "name_en": "Chi̇cken sadj",
+                "name_ru": "Курица садж",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005200111931093789.jpg",
+                "description_az": "4 nəfərlik",
+                "description_en": "For 4 people",
+                "description_ru": "Для 4 человек",
+                "price": "25"
+            },
+            {
+                "id": 90,
+                "name_az": "Sac quzu ",
+                "name_en": "Lamb sadj",
+                "name_ru": "Ягненок садж",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052053101644508707.jpg",
+                "description_az": "4 nəfərlik",
+                "description_en": "For 4 people",
+                "description_ru": "Для 4 человек",
+                "price": "30"
+            },
+            {
+                "id": 91,
+                "name_az": "Quzu əti̇ şərabda",
+                "name_en": "Lamb in wine",
+                "name_ru": "Ягненка в вине",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101000720555287719.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "16"
+            },
+            {
+                "id": 92,
+                "name_az": "Şi̇rəli̇ xoruz",
+                "name_en": "Juicy rooster",
+                "name_ru": "Сочный петух",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052057171858550682.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "40"
+            },
+            {
+                "id": 93,
+                "name_az": "Qaymaqli can əti̇",
+                "name_en": "Creamed beef ",
+                "name_ru": "Кремовый говядина ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005205826585263111.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 94,
+                "name_az": "Vi̇şnəli̇ can əti̇",
+                "name_en": "Veal with cherry",
+                "name_ru": "Телятина с вишней",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052253441622639565.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 95,
+                "name_az": "Kefli̇ beçə",
+                "name_en": "Kefli̇ bethce",
+                "name_ru": "Кефли бече",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052124391672167746.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "20"
+            },
+            {
+                "id": 96,
+                "name_az": "Sümüksüz tabaka",
+                "name_en": "Boneless tabaka",
+                "name_ru": "Бескостная табака ",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010008261568868904.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "26"
+            },
+            {
+                "id": 97,
+                "name_az": "Örüştə ",
+                "name_en": "Orushta",
+                "name_ru": "Орушта",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052125431336747139.jpg",
+                "description_az": "kənd çolpası",
+                "description_en": "village cholpa",
+                "description_ru": "деревня чолпа ",
+                "price": "22"
+            },
+            {
+                "id": 98,
+                "name_az": "Kənd çolpasi çiğirtmasi",
+                "name_en": "Village cholpa chigirtma ",
+                "name_ru": "Деревня чолпа чыгыртма",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005212730950003457.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "30"
+            }
+        ]
+    },
+    "category11": {
+        "id": 11,
+        "parent": "Yeməklər",
+        "category_az": "Öncədən si̇fari̇ş ",
+        "category_ru": "Предварительный заказ",
+        "category_en": "Pre-order",
+        "meals": [
+            {
+                "id": 99,
+                "name_az": "Şah plov ",
+                "name_en": "Shah plov",
+                "name_ru": "Шах плов",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005212845318500841.jpg",
+                "description_az": "4 nəfərlik",
+                "description_en": "For 4 people",
+                "description_ru": "Для 4 человек",
+                "price": "45"
+            },
+            {
+                "id": 100,
+                "name_az": "Qubadli aşi ",
+                "name_en": "Gubadli ash",
+                "name_ru": "Губадли аш",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005213008355594705.jpg",
+                "description_az": "4 nəfərlik",
+                "description_en": "For 4 people",
+                "description_ru": "Для 4 человек",
+                "price": "45"
+            },
+            {
+                "id": 101,
+                "name_az": "Şüyüdlü aş ",
+                "name_en": "Süyüdlu ash",
+                "name_ru": "Сююдлу аш",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005213208816863278.jpg",
+                "description_az": "quzu ilə 4 nəfərlik",
+                "description_en": "with lamb for 4 people",
+                "description_ru": "с бараниной на 4 персоны",
+                "price": "50"
+            },
+            {
+                "id": 102,
+                "name_az": "Plov seti̇",
+                "name_en": "Plov set",
+                "name_ru": "Плов сет",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "60"
+            },
+            {
+                "id": 103,
+                "name_az": "Borani plov",
+                "name_en": "Pilov with brown",
+                "name_ru": "Плов с коричневым",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052141481411194614.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "60"
+            }
+        ]
+    },
+    "category12": {
+        "id": 12,
+        "parent": "Yeməklər",
+        "category_az": "Plovlar",
+        "category_ru": "Плов",
+        "category_en": "Plov",
+        "meals": [
+            {
+                "id": 104,
+                "name_az": "Paxla plov",
+                "name_en": "Фасольный плов",
+                "name_ru": " bean plov",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 105,
+                "name_az": "Fi̇si̇ncan plov",
+                "name_en": "Fisincan plov",
+                "name_ru": "Физинканский плов",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005214233613052300.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "12"
+            },
+            {
+                "id": 106,
+                "name_az": "Turşu plov",
+                "name_en": "Sour plov",
+                "name_ru": "Кислый плов ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310051955181853038154.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "11"
+            },
+            {
+                "id": 107,
+                "name_az": "Səbzi̇ plov",
+                "name_en": "Sabzi̇ plov",
+                "name_ru": "Сабзи плов ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005214324863226934.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            }
+        ]
+    },
+    "category13": {
+        "id": 13,
+        "parent": "Yeməklər",
+        "category_az": "Təndi̇r yeməkləri̇",
+        "category_ru": "Тандыр фудс",
+        "category_en": "Tandir foods",
+        "meals": [
+            {
+                "id": 108,
+                "name_az": "Dana şapalaq",
+                "name_en": "Veal slap",
+                "name_ru": "Телячья пощечина ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052204511540632902.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "18"
+            },
+            {
+                "id": 109,
+                "name_az": "Turşulu maça təndi̇rdə",
+                "name_en": "Sour macha in tandir",
+                "name_ru": "Кислая мача в тандыре",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 110,
+                "name_az": "Hi̇nduşka",
+                "name_en": "Hinduska",
+                "name_ru": "Гиндуска",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310281614361314362646.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "80"
+            },
+            {
+                "id": 111,
+                "name_az": "Çolpa təndi̇rdə",
+                "name_en": "Cholpa in the tandir",
+                "name_ru": "Чолпа в тандыре",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100522205159119423.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 112,
+                "name_az": "Toyuq ləvəngi̇",
+                "name_en": "Chicken lavangi̇",
+                "name_ru": "Куриные лаванги",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052222271465749819.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "20"
+            },
+            {
+                "id": 113,
+                "name_az": "Quzu bud",
+                "name_en": "It was the lamb",
+                "name_ru": "Это был ягненок",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010014281089564774.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "50"
+            },
+            {
+                "id": 114,
+                "name_az": "Quzu qolu",
+                "name_en": "Arm of lamb",
+                "name_ru": "Рука ягня",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010015142115093492.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "30"
+            },
+            {
+                "id": 115,
+                "name_az": "Kütüm ləvəngi̇si̇",
+                "name_en": "Kutum lavangi̇",
+                "name_ru": "Кутум лаванги",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005222746924782889.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "45"
+            },
+            {
+                "id": 116,
+                "name_az": "Quzu bütöv",
+                "name_en": "Lamb whole",
+                "name_ru": "Ягненок целый",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052232111905495323.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "350"
+            },
+            {
+                "id": 117,
+                "name_az": "Quzu səbət",
+                "name_en": "The lamb basket",
+                "name_ru": "Корзина ягненка",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005223638566948570.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "80"
+            },
+            {
+                "id": 118,
+                "name_az": "Şi̇rəli̇ bütöv hi̇nduşka ",
+                "name_en": "",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "90"
+            }
+        ]
+    },
+    "category14": {
+        "id": 14,
+        "parent": "Yeməklər",
+        "category_az": "Manqal yeməkləri̇",
+        "category_ru": "Барбекю",
+        "category_en": "Barbecue food",
+        "meals": [
+            {
+                "id": 119,
+                "name_az": "Hi̇nduşka kababi",
+                "name_en": "Turkey kabab",
+                "name_ru": "Турция кабаб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005224119481116913.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "40"
+            },
+            {
+                "id": 120,
+                "name_az": "Külləmə",
+                "name_en": "Kullama",
+                "name_ru": "Кюллама",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101002007488110766.jpg",
+                "description_az": "(4 ədəd)",
+                "description_en": "(4 pieces)",
+                "description_ru": "(4 штук)",
+                "price": "2"
+            },
+            {
+                "id": 121,
+                "name_az": "Forel setkada",
+                "name_en": "Trout fish in setka",
+                "name_ru": "Рыба форель в сетке",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005223341635826592.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "16"
+            },
+            {
+                "id": 122,
+                "name_az": "Kartof lüləsi̇",
+                "name_en": "Potato barrel",
+                "name_ru": "Картофельная бочка",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005223407386568469.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 123,
+                "name_az": "Tərəvəz kababi",
+                "name_en": "Vegetable kababi",
+                "name_ru": "Овощные кабаби",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005223439443112632.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "1"
+            },
+            {
+                "id": 124,
+                "name_az": "Çöp şi̇ş",
+                "name_en": "Chop shish ",
+                "name_ru": "Чоп шиш",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005223621416704742.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 125,
+                "name_az": "Göbələk",
+                "name_en": "Mushroom",
+                "name_ru": "Гриб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052237301955889252.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 126,
+                "name_az": "Xan kababi",
+                "name_en": "Khan kababi",
+                "name_ru": "Хан кабаби",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052238062005231612.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 127,
+                "name_az": "Nərə baliği",
+                "name_en": "Sturgeon",
+                "name_ru": "Осетр",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005224913887074660.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "50"
+            },
+            {
+                "id": 128,
+                "name_az": "Setkada çolpa",
+                "name_en": "Setkada cholpa",
+                "name_ru": "Сеткада чолпа",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005223841627634269.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 129,
+                "name_az": "Quzu i̇çalat",
+                "name_en": "Lamb stuff",
+                "name_ru": "Баранина",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052239321572945330.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 130,
+                "name_az": "Toyuq kababi",
+                "name_en": "Chicken kababi",
+                "name_ru": "Куриный кабаб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052242332058551513.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 131,
+                "name_az": "Lülə",
+                "name_en": "Lula",
+                "name_ru": "Люля ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052243261827366930.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 132,
+                "name_az": "Dana basdirma ",
+                "name_en": "Calf bastirma ",
+                "name_ru": "Теленок басдырма ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052244051005721409.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 133,
+                "name_az": "Quzu antrekot",
+                "name_en": "Lamb entrecote",
+                "name_ru": "Антрекот из баранины",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231030174518701809141.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "11"
+            },
+            {
+                "id": 134,
+                "name_az": "Quzu bel",
+                "name_en": "Lamb loin ",
+                "name_ru": "Баранинка корейка",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005224548319896822.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 135,
+                "name_az": "Nanəli̇ quzu basdirma",
+                "name_en": "Lamb bastirma ",
+                "name_ru": "Ягненок басдырма ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005224628366969244.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 136,
+                "name_az": "Quzu ti̇kə",
+                "name_en": "Lamb tika",
+                "name_ru": "Ягненок тика",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052247281738939759.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "9"
+            },
+            {
+                "id": 137,
+                "name_az": "Qirçin kababi",
+                "name_en": "Qirchin kebab",
+                "name_ru": "Грчын кебаб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052247531136568108.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 138,
+                "name_az": "Semi̇çka kababi",
+                "name_en": "Semitchka kebab",
+                "name_ru": "Семичка кабаб",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052248341391888846.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 139,
+                "name_az": "Antrekot-ti̇kə",
+                "name_en": "Entrecot-tika",
+                "name_ru": "Антрекот-тика",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101002155442902824.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 140,
+                "name_az": "Kartof quyruq",
+                "name_en": "Potato tail",
+                "name_ru": "Картофельный хвосток",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101001728321901705.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            }
+        ]
+    },
+    "category15": {
+        "id": 15,
+        "parent": "Yeməklər",
+        "category_az": "Dəni̇z yeməkləri̇",
+        "category_ru": "Морепродукты",
+        "category_en": "Seafood",
+        "meals": [
+            {
+                "id": 141,
+                "name_az": "Nərə baliq nar soğan",
+                "name_en": "Where fish pomegranate onion",
+                "name_ru": "Где рыба гранат лук",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052355271805472798.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "45"
+            },
+            {
+                "id": 142,
+                "name_az": "Nərə baliq sirdağ",
+                "name_en": "Nara fish sirdagh",
+                "name_ru": "Нара рыба сирдах",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005225020218622937.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "45"
+            },
+            {
+                "id": 143,
+                "name_az": "Kütüm qizartmasi (1kq)",
+                "name_en": "Kutum fry (1kg)",
+                "name_ru": "Кутум фри (1кг)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005225054278425168.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "35"
+            },
+            {
+                "id": 144,
+                "name_az": "Krevetka kərə yağinda",
+                "name_en": "Shrimp in butter",
+                "name_ru": "Креветки в масле",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 145,
+                "name_az": "Qizil baliq portağal sousunda",
+                "name_en": "Goldfish in orange sauce",
+                "name_ru": "Золотая рыбка в апельсиновом соусе",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052254101366526120.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "22"
+            },
+            {
+                "id": 146,
+                "name_az": "Çay foreli̇",
+                "name_en": "River trout",
+                "name_ru": "Речная форель",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005225454988125919.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "16"
+            }
+        ]
+    },
+    "category16": {
+        "id": 16,
+        "parent": "Yeməklər",
+        "category_az": "Səhər yeməyi̇",
+        "category_ru": "Завтрак",
+        "category_en": "Breakfast",
+        "meals": [
+            {
+                "id": 147,
+                "name_az": "Qarati̇kan bali",
+                "name_en": "Garatikan honey",
+                "name_ru": "Гаратикан бали",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052255322083537075.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 148,
+                "name_az": "Gəncə qaymaq",
+                "name_en": "Ganja cream",
+                "name_ru": "Гянджа крем",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052256041776955293.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 149,
+                "name_az": "Ənci̇r mürəbbəsi̇",
+                "name_en": "Fig jam",
+                "name_ru": "Фиговое джем",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052257261870839378.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 150,
+                "name_az": "Omlet",
+                "name_en": "Omelet",
+                "name_ru": "Омлет",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052258031506523836.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 151,
+                "name_az": "Kərə yaği ",
+                "name_en": "Butter oil",
+                "name_ru": "Сливочное масло",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052258361712830820.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 152,
+                "name_az": "Pendi̇r ",
+                "name_en": "Cheese",
+                "name_ru": "Сыр",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005225908552568220.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 153,
+                "name_az": "Şokolad yaği",
+                "name_en": "Шоколадное масло",
+                "name_ru": "Chocolate butter",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052259401206717171.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 154,
+                "name_az": "Qlozok",
+                "name_en": "Glossok",
+                "name_ru": "Глоссок",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005230024453064008.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 155,
+                "name_az": "Pomi̇dor yumurta",
+                "name_en": "Tomato egg",
+                "name_ru": "Томатное яйцо",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005195803659802816.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            }
+        ]
+    },
+    "category17": {
+        "id": 17,
+        "parent": "Şiriniyyatlar",
+        "category_az": "Meyvə",
+        "category_ru": "Фрукты",
+        "category_en": "Fruit ",
+        "meals": [
+            {
+                "id": 156,
+                "name_az": "Vi̇şnə",
+                "name_en": "Cherry",
+                "name_ru": "Вишня",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101002335285572606.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 157,
+                "name_az": "Zoğal",
+                "name_en": "Cranberry",
+                "name_ru": "Клюква",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010024461592050066.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 158,
+                "name_az": "Yemi̇ş",
+                "name_en": "Melon ",
+                "name_ru": "Дыня ",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010139351221450434.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 159,
+                "name_az": "Meyvə assorti̇",
+                "name_en": "Assorted fruit",
+                "name_ru": "Фруктовое ассорти",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101005918937771583.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 160,
+                "name_az": "Nar",
+                "name_en": "Pomegranate",
+                "name_ru": "Гранат",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101010011940952286.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "3"
+            },
+            {
+                "id": 161,
+                "name_az": "Alça",
+                "name_en": "Cherry ",
+                "name_ru": "Вишня ",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101010347172089359.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 162,
+                "name_az": "Alma",
+                "name_en": "Apple",
+                "name_ru": "Яблоко",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101010453965389754.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 163,
+                "name_az": "Alma nanə",
+                "name_en": "Apple mint",
+                "name_ru": "Яблоко-мята",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010106281127561351.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 164,
+                "name_az": "Ananas",
+                "name_en": "Pineapple",
+                "name_ru": "Ананас",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101011458842839957.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "10"
+            },
+            {
+                "id": 165,
+                "name_az": "Çi̇yələk",
+                "name_en": "Strawberry",
+                "name_ru": "Клубника",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010115441706384003.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 166,
+                "name_az": "Heyva",
+                "name_en": "Quince",
+                "name_ru": "Айва",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101011640953643060.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 167,
+                "name_az": "Qarpiz",
+                "name_en": "Watermelon",
+                "name_ru": "Арбуз",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010117241897271509.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 168,
+                "name_az": "Portağal",
+                "name_en": "Orange",
+                "name_ru": "Апельсин",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101011822543590622.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 169,
+                "name_az": "Şaftali",
+                "name_en": "Peach",
+                "name_ru": "Персик",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101011910681504298.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 170,
+                "name_az": "Üzüm",
+                "name_en": "Grape",
+                "name_ru": "Виноград",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010119481392224812.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            }
+        ]
+    },
+    "category18": {
+        "id": 18,
+        "parent": "Yeməklər",
+        "category_az": "Souslar",
+        "category_ru": "Соусы",
+        "category_en": "Sauces",
+        "meals": [
+            {
+                "id": 171,
+                "name_az": "Alça turşusu",
+                "name_en": "Cherry sauce",
+                "name_ru": "Вишневый соус",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101012820379576049.jpg",
+                "description_az": "50qr",
+                "description_en": "50gr",
+                "description_ru": "50гр",
+                "price": "1"
+            },
+            {
+                "id": 172,
+                "name_az": "Nar turşusu",
+                "name_en": "Pomegranate sauce ",
+                "name_ru": "Гранатовый соус ",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010125101094045270.jpg",
+                "description_az": "50qr",
+                "description_en": "50gr",
+                "description_ru": "50гр",
+                "price": "1"
+            },
+            {
+                "id": 173,
+                "name_az": "Ketçup",
+                "name_en": "Ketchup",
+                "name_ru": "Кетчуп",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010126271978301355.jpg",
+                "description_az": "50qr",
+                "description_en": "50gr",
+                "description_ru": "50гр",
+                "price": "1"
+            },
+            {
+                "id": 174,
+                "name_az": "Mayonez",
+                "name_en": "Mayonnaise",
+                "name_ru": "Майонез",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101012716619115458.jpg",
+                "description_az": "50qr",
+                "description_en": "50gr",
+                "description_ru": "50гр",
+                "price": "1"
+            }
+        ]
+    },
+    "category19": {
+        "id": 19,
+        "parent": "İçkilər",
+        "category_az": "Beer bar",
+        "category_ru": "Пивной бар",
+        "category_en": "Beer bar",
+        "meals": [
+            {
+                "id": 175,
+                "name_az": "Benedi̇kti̇nev",
+                "name_en": "Benedi̇kti̇nev",
+                "name_ru": "Benedi̇kti̇nev",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052301051592442378.jpg",
+                "description_az": "0.5",
+                "description_en": "0.5",
+                "description_ru": "0.5",
+                "price": "9"
+            },
+            {
+                "id": 176,
+                "name_az": "Mi̇ller",
+                "name_en": "Mi̇ller",
+                "name_ru": "Mi̇ller",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005230133173372714.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "6"
+            },
+            {
+                "id": 177,
+                "name_az": "Corona",
+                "name_en": "Corona",
+                "name_ru": "Corona",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052301591398847817.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "7"
+            },
+            {
+                "id": 178,
+                "name_az": "Benedi̇kti̇nev",
+                "name_en": "Benedi̇kti̇nev",
+                "name_ru": "Benedi̇kti̇nev",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052302171242955938.jpg",
+                "description_az": "0.33",
+                "description_en": "0.33",
+                "description_ru": "0.33",
+                "price": "7"
+            },
+            {
+                "id": 179,
+                "name_az": "Budwei̇ser",
+                "name_en": "Budwei̇ser",
+                "name_ru": "Budwei̇ser",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052302491463006789.jpg",
+                "description_az": "0.33",
+                "description_en": "0.33",
+                "description_ru": "0.33",
+                "price": "8"
+            },
+            {
+                "id": 180,
+                "name_az": "Hoegaarden",
+                "name_en": "Hoegaarden",
+                "name_ru": "Hoegaarden",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052303271237747609.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "8"
+            },
+            {
+                "id": 181,
+                "name_az": "Hei̇neken",
+                "name_en": "Hei̇neken",
+                "name_ru": "Hei̇neken",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052303571086029158.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "8"
+            },
+            {
+                "id": 182,
+                "name_az": "Erdi̇nger",
+                "name_en": "Erdi̇nger",
+                "name_ru": "Erdi̇nger",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005230434411608733.jpg",
+                "description_az": "0.5",
+                "description_en": "0.5",
+                "description_ru": "0.5",
+                "price": "10"
+            },
+            {
+                "id": 183,
+                "name_az": "Efes zero",
+                "name_en": "Efes zero",
+                "name_ru": "Efes zero",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005230531877739675.jpg",
+                "description_az": "0.33",
+                "description_en": "0.33",
+                "description_ru": "0.33",
+                "price": "5"
+            }
+        ]
+    },
+    "category20": {
+        "id": 20,
+        "parent": "İçkilər",
+        "category_az": "Kofe çeşi̇dləri̇",
+        "category_ru": "Кофе",
+        "category_en": "Coffee",
+        "meals": [
+            {
+                "id": 184,
+                "name_az": "Ameri̇cano",
+                "name_en": "Ameri̇cano",
+                "name_ru": "Ameri̇cano",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231109145826954040491.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 185,
+                "name_az": "Espresso",
+                "name_en": "Espresso",
+                "name_ru": "Espresso",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311091459051558197788.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 186,
+                "name_az": "Latte",
+                "name_en": "Latte",
+                "name_ru": "Latte",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231109145730101897896.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 187,
+                "name_az": "Cappucci̇no",
+                "name_en": "Cappucci̇no",
+                "name_ru": "Cappucci̇no",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231109145700673803006.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            }
+        ]
+    },
+    "category21": {
+        "id": 21,
+        "parent": "Şiriniyyatlar",
+        "category_az": "Mürəbbə və çərəzlər",
+        "category_ru": "Джем и печенье",
+        "category_en": "Jam and cooki̇e",
+        "meals": [
+            {
+                "id": 188,
+                "name_az": "Xurmali şokolad ",
+                "name_en": "Шоколад с финиками",
+                "name_ru": "Chocolate with dates",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            }
+        ]
+    },
+    "category22": {
+        "id": 22,
+        "parent": "İçkilər",
+        "category_az": "Çay",
+        "category_ru": "Чай",
+        "category_en": "Tea",
+        "meals": [
+            {
+                "id": 189,
+                "name_az": "Mürəbbə",
+                "name_en": "Jam",
+                "name_ru": "Варенье",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010129391047222981.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            },
+            {
+                "id": 190,
+                "name_az": "Çay dəstgahi",
+                "name_en": "Tea set",
+                "name_ru": "Чайный набор",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101013059125009238.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "50"
+            },
+            {
+                "id": 191,
+                "name_az": "Çərəz dəsti̇",
+                "name_en": "Assorted cookies",
+                "name_ru": "Ассорти печенья",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010132421866505431.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "15"
+            },
+            {
+                "id": 192,
+                "name_az": "Çay sadə",
+                "name_en": "Tea simple",
+                "name_ru": "Чай простой",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101013325266669981.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 193,
+                "name_az": "Qarişiq çi̇çək çaylari",
+                "name_en": "Mixed flower tea",
+                "name_ru": "Смешанный цветочный чай",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010134291009200643.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 194,
+                "name_az": "Jasmi̇n çay ",
+                "name_en": "Jasmine tea",
+                "name_ru": "Жасминовый чай",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010135271787978611.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 195,
+                "name_az": "Çay samovar ",
+                "name_en": "Tea samovar",
+                "name_ru": "Чайный самовар",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_20231101013622697566463.jpg",
+                "description_az": "3l",
+                "description_en": "3l",
+                "description_ru": "3л",
+                "price": "15"
+            },
+            {
+                "id": 196,
+                "name_az": "Çay samovar",
+                "name_en": "Tea samovar",
+                "name_ru": "Чайный самовар",
+                "image": "https://monyo.az/uploads2/uploads2023-11/a_1876_202311010137102082372498.jpg",
+                "description_az": "5l",
+                "description_en": "5l",
+                "description_ru": "5л",
+                "price": "20"
+            }
+        ]
+    },
+    "category23": {
+        "id": 23,
+        "parent": "İçkilər",
+        "category_az": "Raki bar",
+        "category_ru": "Раки бар",
+        "category_en": "Raki bar",
+        "meals": [
+            {
+                "id": 197,
+                "name_az": "Yeni̇ raki",
+                "name_en": "Yeni̇ raki",
+                "name_ru": "Yeni̇ raki",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052306041852171205.jpg",
+                "description_az": "0.7",
+                "description_en": "0.7",
+                "description_ru": "0.7",
+                "price": "95"
+            },
+            {
+                "id": 198,
+                "name_az": "Göbek ",
+                "name_en": "Göbek ",
+                "name_ru": "Göbek ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052306376958559.jpg",
+                "description_az": "0.7",
+                "description_en": "0.7",
+                "description_ru": "0.7",
+                "price": "105"
+            }
+        ]
+    },
+    "category24": {
+        "id": 24,
+        "parent": "İçkilər",
+        "category_az": "Tequi̇la bar",
+        "category_ru": "Текила-бар",
+        "category_en": "Tequi̇la bar",
+        "meals": [
+            {
+                "id": 199,
+                "name_az": "Si̇erra",
+                "name_en": "Si̇erra",
+                "name_ru": "Si̇erra",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052311181066340620.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "80"
+            },
+            {
+                "id": 200,
+                "name_az": "Si̇lver patron",
+                "name_en": "Si̇lver patron",
+                "name_ru": "Si̇lver patron",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052311561222226636.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "145"
+            },
+            {
+                "id": 201,
+                "name_az": "Mi̇lagro",
+                "name_en": "Mi̇lagro",
+                "name_ru": "Mi̇lagro",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005231226751451525.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "85"
+            },
+            {
+                "id": 202,
+                "name_az": "Olmega si̇lver",
+                "name_en": "Olmega si̇lver",
+                "name_ru": "Olmega si̇lver",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005231253369307792.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "80"
+            },
+            {
+                "id": 203,
+                "name_az": "Olmega gold",
+                "name_en": "Olmega gold",
+                "name_ru": "Olmega gold",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005231326604026682.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "80"
+            }
+        ]
+    },
+    "category25": {
+        "id": 25,
+        "parent": "İçkilər",
+        "category_az": "Şampan bar",
+        "category_ru": "Шампанский бар",
+        "category_en": "Champagne bar",
+        "meals": [
+            {
+                "id": 204,
+                "name_az": "Asti̇ marti̇ni̇",
+                "name_en": "Asti̇ marti̇ni̇",
+                "name_ru": "Asti̇ marti̇ni̇",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052314151207506884.jpg",
+                "description_az": "1 btl",
+                "description_en": "1btl",
+                "description_ru": "1 бутылка",
+                "price": "45"
+            },
+            {
+                "id": 205,
+                "name_az": "Moet chandon",
+                "name_en": "Moet chandon",
+                "name_ru": "Moet chandon",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052314411103141329.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "160"
+            },
+            {
+                "id": 206,
+                "name_az": "Bottega",
+                "name_en": "Bottega",
+                "name_ru": "Bottega",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052315131760634839.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "40"
+            }
+        ]
+    },
+    "category26": {
+        "id": 26,
+        "parent": "İçkilər",
+        "category_az": "Fresh bar",
+        "category_ru": "Фреш бар",
+        "category_en": "Fresh bar",
+        "meals": [
+            {
+                "id": 207,
+                "name_az": "Greyfrui̇t fresh",
+                "name_en": "Grapefruit fresh",
+                "name_ru": "Грейпфрут фреш",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005231632446273043.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "6"
+            },
+            {
+                "id": 208,
+                "name_az": "Portağal fresh",
+                "name_en": "Orange fresh",
+                "name_ru": "Апельсин фреш",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052317002136406390.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 209,
+                "name_az": "Nar fresh",
+                "name_en": "Pomegranate fresh",
+                "name_ru": "Гранат свежий",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052318051343697998.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "4"
+            },
+            {
+                "id": 210,
+                "name_az": "Mi̇x fresh",
+                "name_en": "Mi̇x fresh",
+                "name_ru": "Микс свежий",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052318521695564186.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "7"
+            }
+        ]
+    },
+    "category27": {
+        "id": 27,
+        "parent": "İçkilər",
+        "category_az": "Səri̇nləndi̇ri̇ci̇ i̇çki̇lər",
+        "category_ru": "Прохлаждающие напитки",
+        "category_en": "Refreshing drinks",
+        "meals": [
+            {
+                "id": 211,
+                "name_az": "Kompot (yerli)",
+                "name_en": "Kompot (domestic)",
+                "name_ru": "Компот (отечественный)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052339531826154235.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "5"
+            },
+            {
+                "id": 212,
+                "name_az": "Mali̇na kompotu (ev sayağı)",
+                "name_en": "Raspberry compote (homemade)",
+                "name_ru": "Малиновый компот (домашний)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005235151140555503.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 bootle ",
+                "description_ru": "1 бутылка",
+                "price": "9"
+            },
+            {
+                "id": 213,
+                "name_az": "Li̇monad natakhtari̇",
+                "name_en": "Li̇monad natakhtari̇",
+                "name_ru": "Li̇monad natakhtari̇",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005234140606116822.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "4"
+            },
+            {
+                "id": 214,
+                "name_az": "Red bull ",
+                "name_en": "Red bull ",
+                "name_ru": "Red bull ",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005234230609575131.jpg",
+                "description_az": "0.25 ml",
+                "description_en": "0.25ml",
+                "description_ru": "0.25мл",
+                "price": "7"
+            },
+            {
+                "id": 215,
+                "name_az": "Təbi̇i̇ şi̇rə (svel)",
+                "name_en": "Natural juice (svel)",
+                "name_ru": "Натуральный сок (свел)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005234312302991060.jpg",
+                "description_az": "1 btl",
+                "description_en": "1btl",
+                "description_ru": "1 бутылка",
+                "price": "8"
+            },
+            {
+                "id": 216,
+                "name_az": "Təbi̇i̇ şi̇rə (yerli)",
+                "name_en": "Natural juice (local)",
+                "name_ru": "Натуральный сок (местный)",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100523432757923234.jpg",
+                "description_az": "1 btl",
+                "description_en": "",
+                "description_ru": "",
+                "price": "5"
+            },
+            {
+                "id": 217,
+                "name_az": "Borjomi̇",
+                "name_en": "Borjomi̇",
+                "name_ru": "Borjomi̇",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052315572124439598.jpg",
+                "description_az": "1 btl",
+                "description_en": "1btl",
+                "description_ru": "1 бутылка",
+                "price": "4"
+            },
+            {
+                "id": 218,
+                "name_az": "Cola ",
+                "name_en": "Cola",
+                "name_ru": "Cola",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005234352570508043.jpg",
+                "description_az": "0.33 ml",
+                "description_en": "0.33ml",
+                "description_ru": "0.33мл",
+                "price": "3"
+            },
+            {
+                "id": 219,
+                "name_az": "Fanta",
+                "name_en": "Fanta",
+                "name_ru": "Fanta",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052344441855311511.jpg",
+                "description_az": "0.33 ml",
+                "description_en": "0.33ml",
+                "description_ru": "0.33мл",
+                "price": "3"
+            },
+            {
+                "id": 220,
+                "name_az": "Spri̇te",
+                "name_en": "Spri̇te",
+                "name_ru": "Spri̇te",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005234457868531702.jpg",
+                "description_az": "0.33 ml",
+                "description_en": "0.33ml",
+                "description_ru": "0.33мл",
+                "price": "3"
+            },
+            {
+                "id": 221,
+                "name_az": "Cola (alman istehsalı)",
+                "name_en": "Cola (made in germany)",
+                "name_ru": "Cola (сделано в германии)",
+                "image": null,
+                "description_az": "0.33 ml",
+                "description_en": "0.33ml",
+                "description_ru": "0.33мл",
+                "price": "10"
+            },
+            {
+                "id": 222,
+                "name_az": "Cola (alman istehsalı)",
+                "name_en": "Cola (made in germany)",
+                "name_ru": "Cola (сделано в германии)",
+                "image": null,
+                "description_az": "0.5 ml",
+                "description_en": "0.5ml",
+                "description_ru": "0.5мл",
+                "price": "12"
+            },
+            {
+                "id": 223,
+                "name_az": "Si̇rab premi̇um",
+                "name_en": "Si̇rab premi̇um",
+                "name_ru": "Si̇rab premi̇um",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052345461883716172.jpg",
+                "description_az": "1 btl",
+                "description_en": "1btl",
+                "description_ru": "1 бутылка",
+                "price": "5"
+            },
+            {
+                "id": 224,
+                "name_az": "Slavyanka premi̇um",
+                "name_en": "Slavyanka premi̇um",
+                "name_ru": "Slavyanka premi̇um",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005234634769812240.jpg",
+                "description_az": "1 btl",
+                "description_en": "1 btl",
+                "description_ru": "1 бутылка",
+                "price": "4"
+            }
+        ]
+    },
+    "category28": {
+        "id": 28,
+        "parent": "İçkilər",
+        "category_az": "Vodka bar",
+        "category_ru": "Водка-бар",
+        "category_en": "Vodka bar",
+        "meals": [
+            {
+                "id": 225,
+                "name_az": "Rjanaya",
+                "name_en": "Rjanaya",
+                "name_ru": "Rjanaya",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005232141558130191.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "50"
+            },
+            {
+                "id": 226,
+                "name_az": "Orthodoks",
+                "name_en": "Orthodoks",
+                "name_ru": "Orthodoks",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052322151146282144.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "55"
+            },
+            {
+                "id": 227,
+                "name_az": "Selected",
+                "name_en": "Selected",
+                "name_ru": "Selected",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052322441028650617.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "25"
+            },
+            {
+                "id": 228,
+                "name_az": "Coral",
+                "name_en": "Coral",
+                "name_ru": "Coral",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005232329585472994.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "60"
+            },
+            {
+                "id": 229,
+                "name_az": "Çi̇sti̇y rodni̇k",
+                "name_en": "Çi̇sti̇y rodni̇k",
+                "name_ru": "Çi̇sti̇y rodni̇k",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052324101141628208.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "80"
+            },
+            {
+                "id": 230,
+                "name_az": "Yaroslavskaya",
+                "name_en": "Yaroslavskaya",
+                "name_ru": "Yaroslavskaya",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052325021646345095.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "40"
+            },
+            {
+                "id": 231,
+                "name_az": "Absolute",
+                "name_en": "Absolute",
+                "name_ru": "Absolute",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052325341288038820.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "55"
+            },
+            {
+                "id": 232,
+                "name_az": "Grey goose",
+                "name_en": "Grey goose",
+                "name_ru": "Grey goose",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005232622375663611.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "100"
+            },
+            {
+                "id": 233,
+                "name_az": "Reyka",
+                "name_en": "Reyka",
+                "name_ru": "Reyka",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005232708103763919.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "70"
+            },
+            {
+                "id": 234,
+                "name_az": "Onegi̇n",
+                "name_en": "Onegi̇n",
+                "name_ru": "Onegi̇n",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052327411933448393.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "80"
+            },
+            {
+                "id": 235,
+                "name_az": "Spelta",
+                "name_en": "Spelta",
+                "name_ru": "Spelta",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005232812329749120.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "190"
+            }
+        ]
+    },
+    "category29": {
+        "id": 29,
+        "parent": "İçkilər",
+        "category_az": "Konyak bar",
+        "category_ru": "Коньячный бар",
+        "category_en": "Cognac bar",
+        "meals": [
+            {
+                "id": 236,
+                "name_az": "Martell x.o",
+                "name_en": "Martell x.o",
+                "name_ru": "Martell x.o",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052328471586341768.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "450"
+            },
+            {
+                "id": 237,
+                "name_az": "Sarigəli̇n tovuz",
+                "name_en": "Sarigəli̇n tovuz",
+                "name_ru": "Sarigəli̇n tovuz",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005232931429967452.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "50"
+            },
+            {
+                "id": 238,
+                "name_az": "Martell v.s",
+                "name_en": "Martell v.s",
+                "name_ru": "Martell v.s",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052330311434466363.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "105"
+            },
+            {
+                "id": 239,
+                "name_az": "Martell v.s.o.p",
+                "name_en": "Martell v.s.o.p",
+                "name_ru": "Martell v.s.o.p",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005233106975287784.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "105"
+            }
+        ]
+    },
+    "category30": {
+        "id": 30,
+        "parent": "İçkilər",
+        "category_az": "Wine bar",
+        "category_ru": "Винный бар",
+        "category_en": "Wine bar",
+        "meals": [
+            {
+                "id": 240,
+                "name_az": "Bottega qirmizi",
+                "name_en": "Bottega qirmizi",
+                "name_ru": "Bottega qirmizi",
+                "image": null,
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "100"
+            },
+            {
+                "id": 241,
+                "name_az": "Hi̇llsi̇de",
+                "name_en": "Hi̇llsi̇de",
+                "name_ru": "Hi̇llsi̇de",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005233206159927466.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "45"
+            },
+            {
+                "id": 242,
+                "name_az": "Meysəri̇ sənəm",
+                "name_en": "Meysəri̇ sənəm",
+                "name_ru": "Meysəri̇ sənəm",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100523333946023215.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "45"
+            },
+            {
+                "id": 243,
+                "name_az": "Meysəri̇ məxməri̇",
+                "name_en": "Meysəri̇ məxməri̇",
+                "name_ru": "Meysəri̇ məxməri̇",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005233317711996565.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "50"
+            },
+            {
+                "id": 244,
+                "name_az": "Brancott",
+                "name_en": "Brancott",
+                "name_ru": "Brancott",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052334191628953498.jpg",
+                "description_az": "1 bottle",
+                "description_en": "1 bottle",
+                "description_ru": "1 бутылка",
+                "price": "55"
+            }
+        ]
+    },
+    "category31": {
+        "id": 31,
+        "parent": "İçkilər",
+        "category_az": "Vi̇ski̇ bar",
+        "category_ru": "Виски-бар",
+        "category_en": "Whiskey bar",
+        "meals": [
+            {
+                "id": 245,
+                "name_az": "Jack dani̇els",
+                "name_en": "Jack dani̇els",
+                "name_ru": "Jack dani̇els",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052334551787062663.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "60"
+            },
+            {
+                "id": 246,
+                "name_az": "Chi̇vas 18",
+                "name_en": "Chi̇vas 18",
+                "name_ru": "Chi̇vas 18",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_2023100523353415699571.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "130"
+            },
+            {
+                "id": 247,
+                "name_az": "Chi̇vas 21",
+                "name_en": "Chi̇vas 21",
+                "name_ru": "Chi̇vas 21",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005233640514493437.jpg",
+                "description_az": "0.7",
+                "description_en": "0.7",
+                "description_ru": "0.7",
+                "price": "350"
+            },
+            {
+                "id": 248,
+                "name_az": "Macallan",
+                "name_en": "Macallan",
+                "name_ru": "Macallan",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052337152051262361.jpg",
+                "description_az": "0.7",
+                "description_en": "0.7",
+                "description_ru": "0.7",
+                "price": "220"
+            },
+            {
+                "id": 249,
+                "name_az": "Jameson",
+                "name_en": "Jameson",
+                "name_ru": "Jameson",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_20231005233807299769295.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "60"
+            },
+            {
+                "id": 250,
+                "name_az": "Chi̇vas 12",
+                "name_en": "Chi̇vas 12",
+                "name_ru": "Chi̇vas 12",
+                "image": "https://monyo.az/uploads2/uploads2023-10/a_1876_202310052338491212023268.jpg",
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "65"
+            }
+        ]
+    },
+    "category32": {
+        "id": 32,
+        "parent": "Qəlyan",
+        "category_az": "Qəlyan ",
+        "category_ru": "",
+        "category_en": "Shisha",
+        "meals": [
+            {
+                "id": 251,
+                "name_az": "Premium",
+                "name_en": "Premium",
+                "name_ru": "",
+                "image": null,
+                "description_az": "DarkSide, MustHave, Brusko, Chabacco",
+                "description_en": "DarkSide, MustHave, Brusko, Chabacco",
+                "description_ru": "",
+                "price": "50"
+            },
+            {
+                "id": 252,
+                "name_az": "Saxsi",
+                "name_en": "Bowl",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "30"
+            },
+            {
+                "id": 253,
+                "name_az": "Qreyfurt",
+                "name_en": "Grapefruit",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "40"
+            },
+            {
+                "id": 254,
+                "name_az": "Ananas",
+                "name_en": "Pineapple",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "50"
+            },
+            {
+                "id": 255,
+                "name_az": "Kokos",
+                "name_en": "Coconut",
+                "name_ru": "",
+                "image": null,
+                "description_az": "",
+                "description_en": "",
+                "description_ru": "",
+                "price": "60"
+            }
+        ]
+    }
+}

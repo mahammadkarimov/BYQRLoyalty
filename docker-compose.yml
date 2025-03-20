@@ -1,0 +1,36 @@
+version: '3.1'
+services:
+  db:
+    image: postgres
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+        - ./postgres_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_USER: mahammad
+      POSTGRES_DB: DemoQr
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+
+  redis:
+    image: redis
+    restart: always
+    ports:
+      - 6379:6379
+  web:
+    build: .
+    command: python app/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+volumes:
+  postgres_data:
